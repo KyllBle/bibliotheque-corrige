@@ -6,3 +6,4 @@ vendor/
 .DS_Store
 Thumbs.db
 *.swp
+config/db_credentials.php
